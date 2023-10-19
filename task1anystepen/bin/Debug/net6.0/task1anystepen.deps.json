@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task1anystepen/1.0.0": {
+        "runtime": {
+          "task1anystepen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task1anystepen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
